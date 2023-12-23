@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with Full stack development 
 - 💬 Ask me about java script 
 - 📫 How to reach me: muhammadtarazansari12@gmail.com 
-- 😄 Pronouns: 
 - ⚡ Fun fact: Problem solving
