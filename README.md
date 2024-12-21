@@ -1,6 +1,6 @@
 
 
-  **Hi there 👋, I'm Muhammad Taraz**
+### Hi there 👋, I'm Muhammad Taraz**
 
 - 🔭 Currently pursuing a Bachelor's degree at IBA while working on MERN stack projects.
 - 🌱 Passionate about learning new languages and enhancing my web development skills.
