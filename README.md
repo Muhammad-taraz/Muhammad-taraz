@@ -1,9 +1,9 @@
-### Hi there 👋, It's Muhammad Taraz
+Hi there 👋, I'm Muhammad Taraz
 
-- 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Web development 
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Full stack development 
-- 💬 Ask me about java script, php, Laravel
-- 📫 How to reach me: muhammadtarazansari12@gmail.com 
-- ⚡ Fun fact: Problem solving
+    🔭 Currently pursuing a Bachelor's degree at IBA while working on MERN stack projects.
+    🌱 Passionate about learning new languages and enhancing my web development skills.
+    👯 Actively seeking collaboration opportunities on exciting projects.
+    🤔 Always eager to improve my skills in Full Stack Development.
+    💬 Feel free to ask me about C++, JavaScript, PHP, and Laravel.
+    📫 You can reach me at: muhammadtarazansari12@gmail.com
+    ⚡ Fun fact: I love problem-solving and tackling complex challenges.
